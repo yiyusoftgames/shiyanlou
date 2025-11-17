@@ -1,0 +1,20 @@
+实验楼
+介绍
+实验楼游戏，剧情由店员-6203改编，主体还是原版实验楼改编
+
+开发区2012游戏由忆雨的小说工作室制作
+剧情改编自 Warma-实验楼.ppt
+Warma哔哩哔哩主页("https://space.bilibili.com/53456")
+原版实验楼视频链接("https://www.bilibili.com/video/BV1Kb411L7eE")
+联系开发者("https://yiyu.sd.cn/contact") 网站进不去？你是外国用户？开VPN翻到中国大陆再访问
+软件架构
+现在支持WebGL,Flash,Windows和Android（不支持Linux和苹果家族设备）
+
+安装教程
+下载"Setup.exe"然后双击运行 *请关闭防病毒软件
+选择一个安装目录
+完成安装
+使用说明
+如果无法运行可以尝试调节兼容性
+渲染有问题可以尝试重新安装DX8/9
+鼠标不见了可以尝试强退重进
