@@ -1,23 +1,30 @@
-实验楼
-介绍
-实验楼游戏，游戏本体由 开发区2012 制作
+# 实验楼游戏
 
-开发区2012游戏由忆雨的小说工作室制作 *开发区2012 为忆雨的小说工作室 私有 项目
-剧情摘选自 Warma-实验楼.ppt
-Warma哔哩哔哩主页("https://space.bilibili.com/53456")
-原版实验楼视频链接("https://www.bilibili.com/video/BV1Kb411L7eE")
-联系开发者("https://yiyu.sd.cn/contact") 
-软件架构
-现在支持WebGL,Flash,Windows和Android（即将支持Linux和MacOS）
+游戏本体基于 开发区2012 制作。
+剧情摘选自 Warma‑实验楼.ppt
 
-安装教程
-下载"Setup.exe"然后双击运行 *请关闭防病毒软件
-选择一个安装目录
-完成安装
-使用说明
-如果无法运行可以尝试调节兼容性
-渲染有问题可以尝试重新安装DX8/9
-鼠标不见了可以尝试强退重进
+Warma B站主页：https://space.bilibili.com/53456
+原版视频：https://www.bilibili.com/video/BV1Kb411L7eE
 
-源码开放供学习，允许免费发布衍生版本
-禁止未经许可修改套壳上架、内置广告等商业盈利行为。
+开发者联系：https://yiyu.sd.cn/contact
+
+## 支持平台
+WebGL、Flash、Windows、Android
+后续计划支持 Linux、MacOS
+
+## Windows安装教程
+1. 下载 Setup.exe，双击运行
+2. 安装前建议暂时关闭杀毒软件
+3. 选择安装目录完成安装
+
+## 使用说明
+- 游戏打不开：尝试修改程序兼容性设置
+- 渲染画面异常：重装 DirectX 8 / DirectX 9
+- 鼠标消失：强制关闭游戏后重新打开
+
+## ⚠️版权重要说明
+本仓库源码仅供学习，可以免费发布衍生版本。
+**禁止未经许可修改套壳上架应用商店、内置广告以及一切商业盈利行为。**
+
+> 框架代码版权归店员‑6203。
+> 剧情相关内容版权不属于本人，使用剧情内容必须取得原作者授权。
